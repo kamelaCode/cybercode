@@ -1,0 +1,2859 @@
+{
+  "games": {
+    "hai-hudongXingzuo-cxx": {
+      "name": "示例",
+      "timeLen": 900,
+      "nodes": [
+        {
+          "nodeId": "life",
+          "surface": "life",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 5,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "biankuang",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "biankuang1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 15,
+                    "y": 0
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 31
+                  },
+                  "rb": {
+                    "x": 15,
+                    "y": 31
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang3",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 30
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang4",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 7,
+                    "y": 1
+                  },
+                  "rb": {
+                    "x": 7,
+                    "y": 30
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang5",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 15,
+                    "y": 1
+                  },
+                  "rb": {
+                    "x": 15,
+                    "y": 30
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang6",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 1,
+                    "y": 8
+                  },
+                  "rb": {
+                    "x": 14,
+                    "y": 8
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang7",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 1,
+                    "y": 17
+                  },
+                  "rb": {
+                    "x": 14,
+                    "y": 17
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang8",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 1,
+                    "y": 25
+                  },
+                  "rb": {
+                    "x": 14,
+                    "y": 25
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang9",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 1,
+                    "y": 31
+                  },
+                  "rb": {
+                    "x": 14,
+                    "y": 31
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "biankuang",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 102,
+                  "g": 102,
+                  "b": 153,
+                  "a": 1
+                }
+              },
+              "nodes": [
+                {
+                  "nodeId": "biankuang1",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 15,
+                        "y": 0
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang2",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 31
+                      },
+                      "rb": {
+                        "x": 15,
+                        "y": 31
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang3",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 1
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 30
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang4",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 7,
+                        "y": 1
+                      },
+                      "rb": {
+                        "x": 7,
+                        "y": 30
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang5",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 15,
+                        "y": 1
+                      },
+                      "rb": {
+                        "x": 15,
+                        "y": 30
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang6",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 1,
+                        "y": 8
+                      },
+                      "rb": {
+                        "x": 14,
+                        "y": 8
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang7",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 1,
+                        "y": 17
+                      },
+                      "rb": {
+                        "x": 14,
+                        "y": 17
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang8",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 1,
+                        "y": 25
+                      },
+                      "rb": {
+                        "x": 14,
+                        "y": 25
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "biankuang10",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 32
+                      },
+                      "rb": {
+                        "x": 15,
+                        "y": 41
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 102,
+                      "g": 102,
+                      "b": 153,
+                      "a": 1
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "shuiping",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "shuiping1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 9,
+                    "y": 1
+                  },
+                  {
+                    "x": 10,
+                    "y": 2
+                  },
+                  {
+                    "x": 9,
+                    "y": 3
+                  },
+                  {
+                    "x": 10,
+                    "y": 4
+                  },
+                  {
+                    "x": 9,
+                    "y": 5
+                  },
+                  {
+                    "x": 10,
+                    "y": 6
+                  },
+                  {
+                    "x": 9,
+                    "y": 7
+                  },
+                  {
+                    "x": 12,
+                    "y": 1
+                  },
+                  {
+                    "x": 13,
+                    "y": 2
+                  },
+                  {
+                    "x": 12,
+                    "y": 3
+                  },
+                  {
+                    "x": 13,
+                    "y": 4
+                  },
+                  {
+                    "x": 12,
+                    "y": 5
+                  },
+                  {
+                    "x": 13,
+                    "y": 6
+                  },
+                  {
+                    "x": 12,
+                    "y": 7
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "shuiping2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 4,
+                    "y": 35
+                  },
+                  {
+                    "x": 5,
+                    "y": 34
+                  },
+                  {
+                    "x": 6,
+                    "y": 35
+                  },
+                  {
+                    "x": 8,
+                    "y": 35
+                  },
+                  {
+                    "x": 10,
+                    "y": 35
+                  },
+                  {
+                    "x": 7,
+                    "y": 34
+                  },
+                  {
+                    "x": 9,
+                    "y": 34
+                  },
+                  {
+                    "x": 11,
+                    "y": 34
+                  },
+                  {
+                    "x": 5,
+                    "y": 38
+                  },
+                  {
+                    "x": 7,
+                    "y": 38
+                  },
+                  {
+                    "x": 9,
+                    "y": 38
+                  },
+                  {
+                    "x": 11,
+                    "y": 38
+                  },
+                  {
+                    "x": 4,
+                    "y": 39
+                  },
+                  {
+                    "x": 6,
+                    "y": 39
+                  },
+                  {
+                    "x": 8,
+                    "y": 39
+                  },
+                  {
+                    "x": 10,
+                    "y": 39
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "shuangyu",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "shuangyu1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 8,
+                    "y": 9
+                  },
+                  {
+                    "x": 9,
+                    "y": 10
+                  },
+                  {
+                    "x": 10,
+                    "y": 11
+                  },
+                  {
+                    "x": 11,
+                    "y": 9
+                  },
+                  {
+                    "x": 11,
+                    "y": 10
+                  },
+                  {
+                    "x": 11,
+                    "y": 11
+                  },
+                  {
+                    "x": 11,
+                    "y": 12
+                  },
+                  {
+                    "x": 11,
+                    "y": 13
+                  },
+                  {
+                    "x": 11,
+                    "y": 14
+                  },
+                  {
+                    "x": 11,
+                    "y": 15
+                  },
+                  {
+                    "x": 11,
+                    "y": 16
+                  },
+                  {
+                    "x": 12,
+                    "y": 11
+                  },
+                  {
+                    "x": 13,
+                    "y": 10
+                  },
+                  {
+                    "x": 14,
+                    "y": 9
+                  },
+                  {
+                    "x": 10,
+                    "y": 14
+                  },
+                  {
+                    "x": 9,
+                    "y": 15
+                  },
+                  {
+                    "x": 8,
+                    "y": 16
+                  },
+                  {
+                    "x": 12,
+                    "y": 14
+                  },
+                  {
+                    "x": 13,
+                    "y": 15
+                  },
+                  {
+                    "x": 14,
+                    "y": 16
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 254,
+                  "b": 204,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "shuangyu2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 4,
+                    "y": 34
+                  },
+                  {
+                    "x": 5,
+                    "y": 35
+                  },
+                  {
+                    "x": 11,
+                    "y": 34
+                  },
+                  {
+                    "x": 10,
+                    "y": 35
+                  },
+                  {
+                    "x": 6,
+                    "y": 36
+                  },
+                  {
+                    "x": 9,
+                    "y": 36
+                  },
+                  {
+                    "x": 4,
+                    "y": 37
+                  },
+                  {
+                    "x": 5,
+                    "y": 37
+                  },
+                  {
+                    "x": 6,
+                    "y": 37
+                  },
+                  {
+                    "x": 7,
+                    "y": 37
+                  },
+                  {
+                    "x": 8,
+                    "y": 37
+                  },
+                  {
+                    "x": 9,
+                    "y": 37
+                  },
+                  {
+                    "x": 10,
+                    "y": 37
+                  },
+                  {
+                    "x": 11,
+                    "y": 37
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 9,
+                    "y": 38
+                  },
+                  {
+                    "x": 5,
+                    "y": 39
+                  },
+                  {
+                    "x": 10,
+                    "y": 39
+                  },
+                  {
+                    "x": 4,
+                    "y": 40
+                  },
+                  {
+                    "x": 11,
+                    "y": 40
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 254,
+                  "b": 204,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "baiyang",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "baiyang1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 13,
+                    "y": 18
+                  },
+                  {
+                    "x": 12,
+                    "y": 19
+                  },
+                  {
+                    "x": 14,
+                    "y": 19
+                  },
+                  {
+                    "x": 13,
+                    "y": 20
+                  },
+                  {
+                    "x": 13,
+                    "y": 22
+                  },
+                  {
+                    "x": 12,
+                    "y": 23
+                  },
+                  {
+                    "x": 14,
+                    "y": 23
+                  },
+                  {
+                    "x": 13,
+                    "y": 24
+                  },
+                  {
+                    "x": 8,
+                    "y": 21
+                  },
+                  {
+                    "x": 9,
+                    "y": 21
+                  },
+                  {
+                    "x": 10,
+                    "y": 21
+                  },
+                  {
+                    "x": 11,
+                    "y": 21
+                  },
+                  {
+                    "x": 12,
+                    "y": 21
+                  }
+                ],
+                "rgba": {
+                  "r": 254,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "baiyang2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 8,
+                    "y": 33
+                  },
+                  {
+                    "x": 8,
+                    "y": 34
+                  },
+                  {
+                    "x": 8,
+                    "y": 35
+                  },
+                  {
+                    "x": 8,
+                    "y": 36
+                  },
+                  {
+                    "x": 8,
+                    "y": 37
+                  },
+                  {
+                    "x": 8,
+                    "y": 38
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 10,
+                    "y": 38
+                  },
+                  {
+                    "x": 5,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 39
+                  },
+                  {
+                    "x": 9,
+                    "y": 39
+                  },
+                  {
+                    "x": 11,
+                    "y": 39
+                  },
+                  {
+                    "x": 6,
+                    "y": 40
+                  },
+                  {
+                    "x": 10,
+                    "y": 40
+                  }
+                ],
+                "rgba": {
+                  "r": 254,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "juxie",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "juxie1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 2,
+                    "y": 26
+                  },
+                  {
+                    "x": 1,
+                    "y": 27
+                  },
+                  {
+                    "x": 1,
+                    "y": 28
+                  },
+                  {
+                    "x": 1,
+                    "y": 29
+                  },
+                  {
+                    "x": 2,
+                    "y": 30
+                  },
+                  {
+                    "x": 2,
+                    "y": 28
+                  },
+                  {
+                    "x": 3,
+                    "y": 29
+                  },
+                  {
+                    "x": 4,
+                    "y": 27
+                  },
+                  {
+                    "x": 5,
+                    "y": 26
+                  },
+                  {
+                    "x": 5,
+                    "y": 28
+                  },
+                  {
+                    "x": 5,
+                    "y": 30
+                  },
+                  {
+                    "x": 6,
+                    "y": 27
+                  },
+                  {
+                    "x": 6,
+                    "y": 28
+                  },
+                  {
+                    "x": 6,
+                    "y": 29
+                  }
+                ],
+                "rgba": {
+                  "r": 92,
+                  "g": 138,
+                  "b": 138,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "juxie2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 6,
+                    "y": 33
+                  },
+                  {
+                    "x": 7,
+                    "y": 33
+                  },
+                  {
+                    "x": 8,
+                    "y": 33
+                  },
+                  {
+                    "x": 9,
+                    "y": 33
+                  },
+                  {
+                    "x": 5,
+                    "y": 34
+                  },
+                  {
+                    "x": 7,
+                    "y": 34
+                  },
+                  {
+                    "x": 9,
+                    "y": 34
+                  },
+                  {
+                    "x": 10,
+                    "y": 34
+                  },
+                  {
+                    "x": 6,
+                    "y": 35
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 5,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 39
+                  },
+                  {
+                    "x": 9,
+                    "y": 39
+                  },
+                  {
+                    "x": 10,
+                    "y": 39
+                  },
+                  {
+                    "x": 6,
+                    "y": 40
+                  },
+                  {
+                    "x": 7,
+                    "y": 40
+                  },
+                  {
+                    "x": 8,
+                    "y": 40
+                  },
+                  {
+                    "x": 9,
+                    "y": 40
+                  }
+                ],
+                "rgba": {
+                  "r": 92,
+                  "g": 138,
+                  "b": 138,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "shuangzi",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "shuangzi1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 10,
+                    "y": 26
+                  },
+                  {
+                    "x": 10,
+                    "y": 30
+                  },
+                  {
+                    "x": 14,
+                    "y": 26
+                  },
+                  {
+                    "x": 14,
+                    "y": 30
+                  },
+                  {
+                    "x": 12,
+                    "y": 27
+                  },
+                  {
+                    "x": 12,
+                    "y": 29
+                  },
+                  {
+                    "x": 11,
+                    "y": 26
+                  },
+                  {
+                    "x": 11,
+                    "y": 27
+                  },
+                  {
+                    "x": 11,
+                    "y": 28
+                  },
+                  {
+                    "x": 11,
+                    "y": 29
+                  },
+                  {
+                    "x": 11,
+                    "y": 30
+                  },
+                  {
+                    "x": 13,
+                    "y": 26
+                  },
+                  {
+                    "x": 13,
+                    "y": 27
+                  },
+                  {
+                    "x": 13,
+                    "y": 28
+                  },
+                  {
+                    "x": 13,
+                    "y": 29
+                  },
+                  {
+                    "x": 13,
+                    "y": 30
+                  }
+                ],
+                "rgba": {
+                  "r": 254,
+                  "g": 215,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "shuangzi2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 5,
+                    "y": 33
+                  },
+                  {
+                    "x": 11,
+                    "y": 33
+                  },
+                  {
+                    "x": 5,
+                    "y": 40
+                  },
+                  {
+                    "x": 11,
+                    "y": 40
+                  },
+                  {
+                    "x": 6,
+                    "y": 34
+                  },
+                  {
+                    "x": 7,
+                    "y": 34
+                  },
+                  {
+                    "x": 8,
+                    "y": 34
+                  },
+                  {
+                    "x": 9,
+                    "y": 34
+                  },
+                  {
+                    "x": 10,
+                    "y": 34
+                  },
+                  {
+                    "x": 6,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 39
+                  },
+                  {
+                    "x": 8,
+                    "y": 39
+                  },
+                  {
+                    "x": 9,
+                    "y": 39
+                  },
+                  {
+                    "x": 10,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 35
+                  },
+                  {
+                    "x": 7,
+                    "y": 36
+                  },
+                  {
+                    "x": 7,
+                    "y": 37
+                  },
+                  {
+                    "x": 7,
+                    "y": 38
+                  },
+                  {
+                    "x": 9,
+                    "y": 35
+                  },
+                  {
+                    "x": 9,
+                    "y": 36
+                  },
+                  {
+                    "x": 9,
+                    "y": 37
+                  },
+                  {
+                    "x": 9,
+                    "y": 38
+                  }
+                ],
+                "rgba": {
+                  "r": 254,
+                  "g": 215,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "tiancheng",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "tiancheng1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 1,
+                    "y": 18
+                  },
+                  {
+                    "x": 1,
+                    "y": 19
+                  },
+                  {
+                    "x": 1,
+                    "y": 20
+                  },
+                  {
+                    "x": 1,
+                    "y": 21
+                  },
+                  {
+                    "x": 1,
+                    "y": 22
+                  },
+                  {
+                    "x": 1,
+                    "y": 23
+                  },
+                  {
+                    "x": 1,
+                    "y": 24
+                  },
+                  {
+                    "x": 3,
+                    "y": 18
+                  },
+                  {
+                    "x": 3,
+                    "y": 19
+                  },
+                  {
+                    "x": 4,
+                    "y": 19
+                  },
+                  {
+                    "x": 5,
+                    "y": 19
+                  },
+                  {
+                    "x": 3,
+                    "y": 24
+                  },
+                  {
+                    "x": 3,
+                    "y": 23
+                  },
+                  {
+                    "x": 4,
+                    "y": 23
+                  },
+                  {
+                    "x": 5,
+                    "y": 23
+                  },
+                  {
+                    "x": 6,
+                    "y": 20
+                  },
+                  {
+                    "x": 6,
+                    "y": 21
+                  },
+                  {
+                    "x": 6,
+                    "y": 22
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 254,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "tiancheng2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 5,
+                    "y": 33
+                  },
+                  {
+                    "x": 6,
+                    "y": 33
+                  },
+                  {
+                    "x": 7,
+                    "y": 33
+                  },
+                  {
+                    "x": 8,
+                    "y": 33
+                  },
+                  {
+                    "x": 9,
+                    "y": 33
+                  },
+                  {
+                    "x": 10,
+                    "y": 33
+                  },
+                  {
+                    "x": 11,
+                    "y": 33
+                  },
+                  {
+                    "x": 5,
+                    "y": 35
+                  },
+                  {
+                    "x": 11,
+                    "y": 35
+                  },
+                  {
+                    "x": 6,
+                    "y": 35
+                  },
+                  {
+                    "x": 6,
+                    "y": 36
+                  },
+                  {
+                    "x": 6,
+                    "y": 37
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 6,
+                    "y": 39
+                  },
+                  {
+                    "x": 10,
+                    "y": 35
+                  },
+                  {
+                    "x": 10,
+                    "y": 36
+                  },
+                  {
+                    "x": 10,
+                    "y": 37
+                  },
+                  {
+                    "x": 10,
+                    "y": 38
+                  },
+                  {
+                    "x": 10,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 40
+                  },
+                  {
+                    "x": 8,
+                    "y": 40
+                  },
+                  {
+                    "x": 9,
+                    "y": 40
+                  }
+                ],
+                "rgba": {
+                  "r": 0,
+                  "g": 254,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "sheshou",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "sheshou1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 1,
+                    "y": 9
+                  },
+                  {
+                    "x": 2,
+                    "y": 10
+                  },
+                  {
+                    "x": 5,
+                    "y": 10
+                  },
+                  {
+                    "x": 2,
+                    "y": 13
+                  },
+                  {
+                    "x": 3,
+                    "y": 11
+                  },
+                  {
+                    "x": 4,
+                    "y": 11
+                  },
+                  {
+                    "x": 3,
+                    "y": 12
+                  },
+                  {
+                    "x": 4,
+                    "y": 12
+                  },
+                  {
+                    "x": 5,
+                    "y": 13
+                  },
+                  {
+                    "x": 5,
+                    "y": 14
+                  },
+                  {
+                    "x": 4,
+                    "y": 15
+                  },
+                  {
+                    "x": 5,
+                    "y": 15
+                  },
+                  {
+                    "x": 6,
+                    "y": 15
+                  },
+                  {
+                    "x": 6,
+                    "y": 12
+                  },
+                  {
+                    "x": 6,
+                    "y": 13
+                  },
+                  {
+                    "x": 6,
+                    "y": 14
+                  }
+                ],
+                "rgba": {
+                  "r": 148,
+                  "g": 0,
+                  "b": 211,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "sheshou2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 5,
+                    "y": 37
+                  },
+                  {
+                    "x": 5,
+                    "y": 38
+                  },
+                  {
+                    "x": 5,
+                    "y": 39
+                  },
+                  {
+                    "x": 5,
+                    "y": 40
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 7,
+                    "y": 38
+                  },
+                  {
+                    "x": 6,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 39
+                  },
+                  {
+                    "x": 6,
+                    "y": 40
+                  },
+                  {
+                    "x": 7,
+                    "y": 40
+                  },
+                  {
+                    "x": 8,
+                    "y": 40
+                  },
+                  {
+                    "x": 8,
+                    "y": 34
+                  },
+                  {
+                    "x": 11,
+                    "y": 34
+                  },
+                  {
+                    "x": 8,
+                    "y": 37
+                  },
+                  {
+                    "x": 11,
+                    "y": 37
+                  },
+                  {
+                    "x": 9,
+                    "y": 35
+                  },
+                  {
+                    "x": 9,
+                    "y": 36
+                  },
+                  {
+                    "x": 10,
+                    "y": 35
+                  },
+                  {
+                    "x": 10,
+                    "y": 36
+                  }
+                ],
+                "rgba": {
+                  "r": 148,
+                  "g": 0,
+                  "b": 211,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "mojie",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 102,
+              "g": 102,
+              "b": 153,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "mojie1",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 1,
+                    "y": 3
+                  },
+                  {
+                    "x": 1,
+                    "y": 4
+                  },
+                  {
+                    "x": 2,
+                    "y": 5
+                  },
+                  {
+                    "x": 2,
+                    "y": 6
+                  },
+                  {
+                    "x": 3,
+                    "y": 3
+                  },
+                  {
+                    "x": 4,
+                    "y": 3
+                  },
+                  {
+                    "x": 5,
+                    "y": 3
+                  },
+                  {
+                    "x": 3,
+                    "y": 5
+                  },
+                  {
+                    "x": 4,
+                    "y": 5
+                  },
+                  {
+                    "x": 5,
+                    "y": 5
+                  },
+                  {
+                    "x": 2,
+                    "y": 6
+                  },
+                  {
+                    "x": 4,
+                    "y": 6
+                  },
+                  {
+                    "x": 3,
+                    "y": 7
+                  },
+                  {
+                    "x": 6,
+                    "y": 1
+                  },
+                  {
+                    "x": 6,
+                    "y": 2
+                  },
+                  {
+                    "x": 6,
+                    "y": 3
+                  },
+                  {
+                    "x": 6,
+                    "y": 4
+                  }
+                ],
+                "rgba": {
+                  "r": 139,
+                  "g": 69,
+                  "b": 19,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "mojie2",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": false,
+              "canTap": false,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "point",
+                "points": [
+                  {
+                    "x": 8,
+                    "y": 33
+                  },
+                  {
+                    "x": 9,
+                    "y": 33
+                  },
+                  {
+                    "x": 5,
+                    "y": 35
+                  },
+                  {
+                    "x": 6,
+                    "y": 34
+                  },
+                  {
+                    "x": 6,
+                    "y": 38
+                  },
+                  {
+                    "x": 7,
+                    "y": 34
+                  },
+                  {
+                    "x": 7,
+                    "y": 35
+                  },
+                  {
+                    "x": 7,
+                    "y": 36
+                  },
+                  {
+                    "x": 7,
+                    "y": 37
+                  },
+                  {
+                    "x": 7,
+                    "y": 38
+                  },
+                  {
+                    "x": 7,
+                    "y": 39
+                  },
+                  {
+                    "x": 7,
+                    "y": 40
+                  },
+                  {
+                    "x": 8,
+                    "y": 40
+                  },
+                  {
+                    "x": 9,
+                    "y": 40
+                  },
+                  {
+                    "x": 10,
+                    "y": 40
+                  },
+                  {
+                    "x": 9,
+                    "y": 36
+                  },
+                  {
+                    "x": 9,
+                    "y": 37
+                  },
+                  {
+                    "x": 9,
+                    "y": 38
+                  },
+                  {
+                    "x": 9,
+                    "y": 39
+                  }
+                ],
+                "rgba": {
+                  "r": 139,
+                  "g": 69,
+                  "b": 19,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "opPlans": [],
+      "logics": []
+    }
+  }
+}

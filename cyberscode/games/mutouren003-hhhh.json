@@ -1,0 +1,2557 @@
+{
+  "games": {
+    "mutouren003-hhhh": {
+      "name": "示例",
+      "timeLen": 9999,
+      "nodes": [
+        {
+          "nodeId": "life",
+          "surface": "life",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 5,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "mubiao004",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "blue000",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "3"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue002",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "4"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue004",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "5"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue006",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "6"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue008",
+              "surface": "b",
+              "pt": {
+                "x": "6",
+                "y": "3"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0010",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "4"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0011",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "5"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0013",
+              "surface": "b",
+              "pt": {
+                "x": "9",
+                "y": "6"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0015",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "6"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0017",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "3"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0019",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "4"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0021",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "5"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0022",
+              "surface": "b",
+              "pt": {
+                "x": "6",
+                "y": "9"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0024",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "9"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0026",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "9"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0028",
+              "surface": "b",
+              "pt": {
+                "x": "9",
+                "y": "9"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue00281",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "9"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue00283",
+              "surface": "b",
+              "pt": {
+                "x": "6",
+                "y": "13"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0029",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "13"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0031",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "13"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0033",
+              "surface": "b",
+              "pt": {
+                "x": "9",
+                "y": "13"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0035",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "13"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0037",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "10"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0039",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "11"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0040",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "12"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0042",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "10"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0044",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "11"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0046",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "12"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0048",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "16"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0050",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "17"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0051",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "18"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0053",
+              "surface": "b",
+              "pt": {
+                "x": "9",
+                "y": "19"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0055",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "19"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0057",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "18"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0059",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "17"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0061",
+              "surface": "b",
+              "pt": {
+                "x": "6",
+                "y": "16"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0062",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "16"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0063",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "17"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0064",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "18"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0065",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "19"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0066",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "22"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0067",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "23"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0068",
+              "surface": "b",
+              "pt": {
+                "x": "5",
+                "y": "24"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0069",
+              "surface": "b",
+              "pt": {
+                "x": "6",
+                "y": "25"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0070",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "25"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0071",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "23"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0072",
+              "surface": "b",
+              "pt": {
+                "x": "8",
+                "y": "24"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0073",
+              "surface": "b",
+              "pt": {
+                "x": "9",
+                "y": "25"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0074",
+              "surface": "b",
+              "pt": {
+                "x": "10",
+                "y": "25"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0075",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "22"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0076",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "23"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "nodeId": "blue0077",
+              "surface": "b",
+              "pt": {
+                "x": "11",
+                "y": "24"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 254,
+                  "a": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "nodeId": "angry001",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "point",
+            "points": [
+              {
+                "x": 4,
+                "y": 37
+              },
+              {
+                "x": 4,
+                "y": 38
+              },
+              {
+                "x": 4,
+                "y": 39
+              },
+              {
+                "x": 3,
+                "y": 38
+              },
+              {
+                "x": 3,
+                "y": 39
+              },
+              {
+                "x": 5,
+                "y": 39
+              },
+              {
+                "x": 5,
+                "y": 38
+              },
+              {
+                "x": 11,
+                "y": 38
+              },
+              {
+                "x": 11,
+                "y": 39
+              },
+              {
+                "x": 12,
+                "y": 37
+              },
+              {
+                "x": 12,
+                "y": 38
+              },
+              {
+                "x": 12,
+                "y": 39
+              },
+              {
+                "x": 13,
+                "y": 38
+              },
+              {
+                "x": 13,
+                "y": 39
+              }
+            ],
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "onOff": true
+          }
+        },
+        {
+          "nodeId": "angry002",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "point",
+            "points": [
+              {
+                "x": 1,
+                "y": 32
+              },
+              {
+                "x": 1,
+                "y": 34
+              },
+              {
+                "x": 1,
+                "y": 35
+              },
+              {
+                "x": 1,
+                "y": 36
+              },
+              {
+                "x": 5,
+                "y": 32
+              },
+              {
+                "x": 6,
+                "y": 33
+              },
+              {
+                "x": 7,
+                "y": 34
+              },
+              {
+                "x": 8,
+                "y": 35
+              },
+              {
+                "x": 9,
+                "y": 34
+              },
+              {
+                "x": 10,
+                "y": 33
+              }
+            ],
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "onOff": true
+          }
+        },
+        {
+          "nodeId": "angry003",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 2,
+                "y": 40
+              },
+              "rb": {
+                "x": 6,
+                "y": 40
+              }
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "angry004",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 10,
+                "y": 40
+              },
+              "rb": {
+                "x": 14,
+                "y": 40
+              }
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "cover",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "32"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 15,
+                "y": 43
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "smile001",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "point",
+            "points": [
+              {
+                "x": 2,
+                "y": 33
+              },
+              {
+                "x": 1,
+                "y": 34
+              },
+              {
+                "x": 0,
+                "y": 35
+              },
+              {
+                "x": 0,
+                "y": 36
+              },
+              {
+                "x": 0,
+                "y": 37
+              },
+              {
+                "x": 0,
+                "y": 38
+              },
+              {
+                "x": 0,
+                "y": 39
+              },
+              {
+                "x": 1,
+                "y": 40
+              },
+              {
+                "x": 2,
+                "y": 41
+              },
+              {
+                "x": 5,
+                "y": 34
+              },
+              {
+                "x": 6,
+                "y": 33
+              },
+              {
+                "x": 7,
+                "y": 34
+              },
+              {
+                "x": 8,
+                "y": 33
+              },
+              {
+                "x": 9,
+                "y": 34
+              },
+              {
+                "x": 4,
+                "y": 38
+              },
+              {
+                "x": 4,
+                "y": 39
+              },
+              {
+                "x": 5,
+                "y": 39
+              },
+              {
+                "x": 6,
+                "y": 39
+              },
+              {
+                "x": 9,
+                "y": 38
+              },
+              {
+                "x": 9,
+                "y": 39
+              },
+              {
+                "x": 10,
+                "y": 39
+              },
+              {
+                "x": 11,
+                "y": 39
+              },
+              {
+                "x": 13,
+                "y": 33
+              },
+              {
+                "x": 14,
+                "y": 34
+              },
+              {
+                "x": 15,
+                "y": 35
+              },
+              {
+                "x": 15,
+                "y": 36
+              },
+              {
+                "x": 15,
+                "y": 37
+              },
+              {
+                "x": 15,
+                "y": 38
+              },
+              {
+                "x": 15,
+                "y": 39
+              },
+              {
+                "x": 14,
+                "y": 40
+              },
+              {
+                "x": 13,
+                "y": 41
+              }
+            ],
+            "rgba": {
+              "r": 0,
+              "g": 254,
+              "b": 0,
+              "a": 1
+            },
+            "onOff": true
+          }
+        }
+      ],
+      "opPlans": [
+        {
+          "beginTM": 0,
+          "opInfo": {
+            "opId": "angryPlya001",
+            "opType": "play",
+            "opNode": "angry001",
+            "timeLen": 2,
+            "loop": "true",
+            "keyFrames": [
+              {
+                "t": "0",
+                "keyFrame": {
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "surface": "b",
+                  "rotation": 0
+                }
+              },
+              {
+                "t": "0.25",
+                "keyFrame": {
+                  "pt": {
+                    "x": "-1",
+                    "y": "0"
+                  },
+                  "surface": "b",
+                  "rotation": 0
+                }
+              },
+              {
+                "t": "0.75",
+                "keyFrame": {
+                  "pt": {
+                    "x": "1",
+                    "y": "0"
+                  },
+                  "surface": "b",
+                  "rotation": 0
+                }
+              },
+              {
+                "t": "1",
+                "keyFrame": {
+                  "pt": {
+                    "x": "0",
+                    "y": "0"
+                  },
+                  "surface": "b",
+                  "rotation": 0
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "logics": []
+    }
+  }
+}

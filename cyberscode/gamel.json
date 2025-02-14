@@ -1,0 +1,2921 @@
+{
+  "levels": {
+    "levelMode": {
+      "state": "unlock",
+      "minMbs": 2,
+      "maxMbs": 6,
+      "sort": 99,
+      "list": [
+        {
+          "wanFaID": "hai",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "Matrix Rush",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "videoList": [],
+          "desc": "绿色为安全区，红色为危险区，蓝色为得分目标。规定时间内躲避危险区，消灭目标获取积分。目标全部消除跳转到下一关，触碰危险区扣除生命值，6条生命值扣完即为游戏失败。\\nGreen represents the safety zone, red represents the danger zone, and blue represents the scoring target. Evade the danger zone within the specified time and eliminate the target to earn points. Eliminate all targets and jump to the next level. Touch the danger zone to deduct health points. If all 6 health points are deducted, the game will fail.",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "desTag": "教学",
+              "desClr": "#000000",
+              "zuoZhe": "",
+              "tips": "新手教学",
+              "gameIds": [
+                {
+                  "gameId": "haiteach001-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haiteach002-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haiteach004-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haiteach005-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haiteach006-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haiteach003-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai004-zwy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai010-zwy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai006-xkj",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai007-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai004-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai008-xkj",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai009-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai018-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai019-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai009-ljc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai017-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai011-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai012-xkj",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai011-xkj",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai012-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai013-xkj",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai014-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0220-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai013-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai9916-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "难度升级",
+              "gameIds": [
+                {
+                  "gameId": "haiSix6-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0320-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0330-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0340-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0350-hdq",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai0290-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0030-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0260-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0300-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0280-hdq",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai17-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0250-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0230-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0050-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai014-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "unlockPT": "4",
+              "tips": "该关卡推荐2-3人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai0370-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0060-gmy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0380-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0390-hdq",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0400-hdq",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "zuoZhe": "",
+              "unlockPT": "4",
+              "tips": "终极难度",
+              "gameIds": [
+                {
+                  "gameId": "hai0800-zwy",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0690-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0750-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0780-ljc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "hai0500-hdq",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 11,
+              "desTag": "11",
+              "desClr": "#ff0000",
+              "zuoZhe": "",
+              "tips": "新关体验",
+              "unlockPT": "5",
+              "gameIds": [
+                {
+                  "gameId": "haievelen-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haievelenTwo-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haievelenThree-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haielevenFour-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "haielevenFive-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "duobi",
+          "wanFa": "极限躲避",
+          "wanFaSub": "Dodge",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_duobi.png",
+          "videoList": [],
+          "desc": "在规定的时间内，躲避红色障碍，存活下来，即为获胜。触碰到红色障碍会扣除生命值，6条生命值扣完即游戏失败。\\nTo avoid the red obstacle within the specified time and survive is to win. Touching the red obstacle will deduct health points, and the game will fail if all 6 health points are deducted.",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "desTag": "教学",
+              "desClr": "#000000",
+              "zuoZhe": "",
+              "tips": "新手教学",
+              "gameIds": [
+                {
+                  "gameId": "duobi001-jz",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobi011-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobi013-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi002-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi003-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi004-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi005-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "难度升级",
+              "gameIds": [
+                {
+                  "gameId": "duobi006-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi007-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "desClr": "#ffff00",
+              "unlockPT": "3",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi008-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-3人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobi009-rah",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "终极难度",
+              "gameIds": [
+                {
+                  "gameId": "duobi010-rah",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "color",
+          "wanFa": "色盲派对",
+          "wanFaSub": "Colorful Party",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_color.png",
+          "videoList": [],
+          "desc": "根据语音提示在限定时间内站到指定位置，错误即会损失生命值，六条生命值全部扣完则游戏结束\\n第五关为问答形式，根据语音提出的问题，找到正确的颜色（注意：随着难度的上升，将会出现陷阱临时点和干扰障碍，需要玩家及时躲避，否则也会扣血的哦！）\\nAccording to the voice prompt, stand at the designated position within a limited time. Errors will result in loss of health. If all six health points are deducted, the game will end. The fifth level is a question and answer format. Based on the questions raised by the voice, find the correct color (note: as the difficulty increases, temporary traps and interference obstacles will appear. Players need to avoid them in a timely manner, otherwise they will also lose health!)",
+          "tags": "反应 速度 颜色",
+          "level": [
+            {
+              "lv": 1,
+              "desTag": "教学",
+              "desClr": "#000000",
+              "zuoZhe": "",
+              "tips": "新手教学",
+              "gameIds": [
+                {
+                  "gameId": "color1-1-1-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color2-2-1-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color1-3-2-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color2-4-2-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "根据问题找到颜色",
+              "gameIds": [
+                {
+                  "gameId": "color1-5-3-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color2-6-3-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color1-7-4-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "desClr": "#ffff00",
+              "unlockPT": "3",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color2-8-4-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color1-9-5-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "color2-10-5-rah",
+                  "trans": "leftRightCover"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "mutouren",
+          "wanFa": "123木头人",
+          "wanFaSub": "Red Light,Green Light",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/123木头人.png",
+          "videoList": [],
+          "desc": "每轮游戏地面随机生成蓝色目标规定时间内消灭目标获取积分，音乐停止时，站在绿色区域不要移动到红色危险区域，否则会扣除生命值，绿色区域会随着关卡难度进行缩小，6条生命值扣完即为游戏失败。\\nRandomly generate blue targets on the ground in each round of the game and eliminate them within the specified time to earn points. When the music stops, stand in the green area and do not move to the red danger area, otherwise health points will be deducted. The green area will shrink with the level, and if all 6 health points are deducted, the game will fail.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "新关体验",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "新关体验",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "新关体验",
+              "gameIds": [
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tran",
+          "wanFa": "传递位置",
+          "wanFaSub": "(Fixed Time)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/传递位置.png",
+          "videoList": [],
+          "desc": "在游戏开始前每位玩家各自选择绿色区域站立，站在绿色闪烁区域的玩家按下对应墙面闪烁蓝色按钮，按下后，移动到新出现的绿色区域上，同时躲避红色危险区域。这样依次进行游戏。\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans03-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans02-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans04-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans05-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "难度提升",
+              "gameIds": [
+                {
+                  "gameId": "trans06-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans07-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans08-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans09-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "终极难度",
+              "gameIds": [
+                {
+                  "gameId": "trans10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tranThree",
+          "wanFa": "颜色传递",
+          "wanFaSub": "(玩法升级版)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/矩阵-颜色传递.png",
+          "videoList": [],
+          "desc": "请各玩家观察墙面按钮颜色并选择一个站立到对应的绿色区域上，游戏开始时按钮闪烁的玩家按下按钮，各玩家观察新出现的按钮颜色，如果自身颜色与新出现的按钮颜色相同，玩家需要在墙面倒计时动画结束前站立到新出现的绿色区域上并按下墙面对应按钮\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans01-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans03-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans02-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans04-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans05-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "难度提升",
+              "gameIds": [
+                {
+                  "gameId": "trans06-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans07-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans08-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans09-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "终极难度",
+              "gameIds": [
+                {
+                  "gameId": "trans10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "wujin",
+          "wanFa": "无尽模式",
+          "wanFaSub": "Colorful Party",
+          "testFlight": "clerk",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_color.png",
+          "videoList": [],
+          "desc": "根据语音提示在限定时间内站到指定位置，错误即会损失生命值，六条生命值全部扣完则游戏结束\\n第五关为问答形式，根据语音提出的问题，找到正确的颜色（注意：随着难度的上升，将会出现陷阱临时点和干扰障碍，需要玩家及时躲避，否则也会扣血的哦！）\\nAccording to the voice prompt, stand at the designated position within a limited time. Errors will result in loss of health. If all six health points are deducted, the game will end. The fifth level is a question and answer format. Based on the questions raised by the voice, find the correct color (note: as the difficulty increases, temporary traps and interference obstacles will appear. Players need to avoid them in a timely manner, otherwise they will also lose health!)",
+          "tags": "反应 速度 颜色",
+          "level": [
+            {
+              "lv": 1,
+              "desTag": "",
+              "desClr": "",
+              "zuoZhe": "",
+              "tips": "",
+              "gameIds": [
+                {
+                  "gameId": "hai011-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "color2-4-2-rah",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "duobi002-rah",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "mutouren001-lbw",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "trans02-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest006-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "trans04-cxx",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "pintu",
+          "wanFa": "默契挑战",
+          "wanFaSub": "(测试版)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/默契挑战.png",
+          "videoList": [],
+          "desc": "玩家需要在地面空白区域踩踏与墙面对应的点位实现地面图案与墙面图案相对应即可过关注意两块空白区域同一点位需要同时踩下并且是与墙面所对应不然需重新开始\\nPlayers need to step on the corresponding point on the ground blank area and the wall surface to achieve the corresponding ground pattern and wall surface pattern to pass the level. Note that the same point on the two blank areas needs to be stepped on simultaneously, otherwise it will need to be restarted.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "pintu1-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu2-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "pintu3-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tiaofangzi",
+          "wanFa": "跳房子",
+          "wanFaSub": "(测试版)",
+          "testFlight": "storeManager",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/竞技奔跑.png",
+          "videoList": [],
+          "desc": "玩家需记住自己刷卡颜色进入游戏后墙面会存在与自己刷卡颜色对应的按钮，按下按钮地面砖块闪烁记住闪烁砖块并通过踩踏显现闪烁后隐藏砖块。踩错会扣除生命值，6条生命值扣完即游戏失败。\\nPlayers need to remember their card swiping color. After entering the game, there will be buttons on the wall that correspond to their card swiping color. Press the button and the ground bricks will flash. Remember to flash the bricks and display them by stepping on them before hiding them. If you make a mistake, your health will be deducted. If you deduct all 6 health points, the game will fail",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tiaofangzi-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tiaofangzi-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tiaofangzi-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tiaofangzi-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tiaofangzi-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "chest",
+          "wanFa": "推个箱子",
+          "wanFaSub": "chesttt",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/推个箱子.png",
+          "desc": "踩踏代表箱子的棕色四方绿色节点推动箱子 全部推到蓝色节点上进入下一轮游戏 如果推到死角 踩踏角落红色节点重置本轮 \\n Step on the brown square green node representing the box, push all boxes onto the blue node to enter the next round of the game. If pushed to a dead corner, step on the red node to reset this round",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "desTag": "教学",
+              "desClr": "#000000",
+              "zuoZhe": "",
+              "tips": "新手教学",
+              "gameIds": [
+                {
+                  "gameId": "chest001-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest002-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest003-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest004-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "desTag": "",
+              "desClr": "#FFFFFF",
+              "zuoZhe": "",
+              "tips": "",
+              "gameIds": [
+                {
+                  "gameId": "chest005-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest006-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest007-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "desTag": "",
+              "desClr": "#FFFFFF",
+              "zuoZhe": "",
+              "tips": "",
+              "gameIds": [
+                {
+                  "gameId": "chest008-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest0010-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest009-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "desTag": "",
+              "desClr": "#FFFFFF",
+              "zuoZhe": "",
+              "tips": "",
+              "gameIds": [
+                {
+                  "gameId": "chest0011-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest0012-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest0013-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "desTag": "",
+              "desClr": "#FFFFFF",
+              "zuoZhe": "",
+              "tips": "",
+              "gameIds": [
+                {
+                  "gameId": "chest0014-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest0015-lyc",
+                  "trans": "leftRightCover"
+                },
+                {
+                  "gameId": "chest0016-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "jiezouTeam",
+          "wanFa": "节奏大师团队",
+          "wanFaSub": "(测试版)",
+          "testFlight": "clerk",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/打蜜11蜂.png",
+          "desc": "请各玩家踩踏地面蓝色方块发射子弹攻击飞机，并同时躲避飞机发射的红色子弹与光束，子弹碰撞可以抵消并且每个砖块发射子弹存在冷却时间。注意：该游戏只有在规定时间内将敌方飞机消灭后开启下一轮，6条生命值扣完或规定时间内没有消灭敌方飞机即为游戏失败。\\nPlease step on the blue square on the ground and fire bullets to attack the aircraft, while avoiding the red bullets and beams fired by the aircraft. After eliminating the enemy aircraft within the specified time, the next round begins. If all 6 health points are deducted or the enemy aircraft is not eliminated within the specified time, the game fails.",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "光辉岁月",
+              "gameIds": [
+                {
+                  "gameId": "jiezou002-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "花之舞",
+              "gameIds": [
+                {
+                  "gameId": "jiezou002-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "翻转地球",
+              "gameIds": [
+                {
+                  "gameId": "jiezou002-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tranPai",
+          "wanFa": "传递位置拍摄专用",
+          "wanFaSub": "(拍摄专用)",
+          "testFlight": "storeManager",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/传递位置.png",
+          "videoList": [],
+          "desc": "在游戏开始前每位玩家各自选择绿色区域站立，站在绿色闪烁区域的玩家按下对应墙面闪烁蓝色按钮，按下后，移动到新出现的绿色区域上，同时躲避红色危险区域。这样依次进行游戏。\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans03-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans02-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans04-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "unlockPT": "3",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans05-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "desTag": "6",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "难度提升",
+              "gameIds": [
+                {
+                  "gameId": "trans06-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "desTag": "7",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans07-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "desTag": "8",
+              "unlockPT": "3",
+              "desClr": "#ffff00",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans08-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "desTag": "9",
+              "desClr": "#ffff00",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "trans09-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "desTag": "10",
+              "desClr": "#ff0000",
+              "unlockPT": "4",
+              "zuoZhe": "",
+              "tips": "终极难度",
+              "gameIds": [
+                {
+                  "gameId": "trans10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "competMode": {
+      "state": "unlock",
+      "minMbs": 2,
+      "maxMbs": 6,
+      "sort": 96,
+      "list": [
+        {
+          "wanFaID": "loot",
+          "wanFa": "色块抢夺",
+          "wanFaSub": "Color block snatching",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/色块抢夺.png",
+          "videoList": [],
+          "desc": "各玩家需要记忆与自己对应的颜色，在规定时间内踩踏地面方格直到变为与自己对应的颜色，色块最多者获得游戏胜利\\nEach player needs to remember their corresponding color and step on the ground squares within the specified time until they become their corresponding color. The player with the most color blocks will win the game",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "lootColor-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "jingji",
+          "wanFa": "反应大战",
+          "wanFaSub": "Reaction Battle",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/反应大战.png",
+          "videoList": [],
+          "desc": "各玩家需要记住与自己对应的颜色，在游戏开始时地面会出现与自己对应的颜色方块，玩家需要快速跑到砖块上面，在规定时间内得分最多者获得游戏胜利\\nEach player needs to remember their corresponding color. At the beginning of the game, corresponding color blocks will appear on the ground. Players need to quickly run over the bricks, and the one who scores the most within the specified time will win the game",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingji-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "jingjibenpao",
+          "wanFa": "竞技奔跑",
+          "wanFaSub": "teamSports",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/竞技奔跑.png",
+          "videoList": [],
+          "desc": "玩家站在绿色区域内在游戏开始后会在房间对侧出现与自己颜色对应的地砖消灭后会在另一侧出现新的与自己颜色对应地砖在规定时间内消灭数量多的或率先完成规定消灭数量的玩家胜利\\nPlayers standing in the green area will have tiles corresponding to their own color appear on the opposite side of the room after the game starts. After elimination, new tiles corresponding to their own color will appear on the other side. Players who have eliminated a large number of tiles within the specified time or completed the required elimination number first will win",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "5轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingjibenpao-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "desTag": "7轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingjibenpao-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "desTag": "10轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingjibenpao-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "desTag": "随机",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingjibenpao-hf",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "desTag": "随机",
+              "desClr": "#20BF64",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "jingjibenpao-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "teampk",
+          "wanFa": "保卫家园",
+          "wanFaSub": "Battle Home",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/保卫家园.png",
+          "videoList": [],
+          "desc": "玩家分为两组站在自己组颜色上踩踏前面的地砖将对方砖块消灭即可得分在方块运动到灰色区域时可以踩踏发射回去进行防守,规定时间内得分最多一组胜利。\\nPlayers are divided into two groups and stand on their own color to stomp on the tiles in front of them and eliminate the opponent's bricks to score points. When the blocks move to the gray area, they can stomp and launch back for defense. The group with the highest score within the specified time wins",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "团队",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "teampk-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "ticta",
+          "wanFa": "井字争夺",
+          "wanFaSub": "TicTacToe ",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/保卫家园.png",
+          "testFlight": "clerk",
+          "videoList": [],
+          "desc": "所有玩家分为红蓝两队进行游戏，进入房间后两队玩家分别站在与自己颜色对应的区域上等待游戏开始，游戏开始后每队一次派一名玩家前往自己棋盘踩踏九宫格内一个区域落子，游戏中可以将对手的颜色覆盖替换成自己的颜色，速度快者占优。先连成三个颜色的一方获胜\\nAll players are divided into two teams, red and blue, to play the game. After entering the room, each team stands on the area corresponding to their own color and waits for the game to start. After the game starts, each team sends one player to their own chessboard to step on an area within the Nine Palaces grid. In the game, players can replace their opponent's color with their own color, and the faster player has the advantage. The party that connects three colors first wins",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "团队",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "tictactoe-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "goldMiner",
+          "wanFa": "星驰电走",
+          "wanFaSub": "Extreme speed",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/矩阵-星驰电走.png",
+          "videoList": [],
+          "desc": "游戏开始前各玩家需要站立到与自己颜色对应的起始区域上。游戏开始后各玩家要在整个地面找到属于自己颜色的目标点并踩踏，踩踏后立即返回到起始区域代表得分成功。90秒内分数最高的玩家获得游戏胜利\\nBefore the game starts, each player needs to stand on the starting area corresponding to their own color. After the game starts, each player must find their own colored target point on the entire ground and step on it. After stepping on it, immediately returning to the starting area represents a successful score. The player with the highest score within 90 seconds wins the game",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "5轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "goldMiner-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "desTag": "7轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "goldMiner-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "desTag": "12轮",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "goldMiner-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "arena",
+          "wanFa": "竞技木头人",
+          "wanFaSub": "Color block snatching",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/竞技木头人.png",
+          "videoList": [],
+          "desc": "每轮游戏地面随机生成与玩家对应颜色的目标点规定时间内消灭与自己对应颜色的目标获取积分，音乐停止时，站在绿色区域不要移动到红色危险区域，否则会扣除生命值，绿色区域会随着关卡进行缩小，6条生命值扣完即为游戏失败。\\nIn each round of the game, randomly generate target points corresponding to the player's color on the ground and eliminate the target corresponding to oneself within the specified time to earn points. When the music stops, stand in the green area and do not move to the red danger area, otherwise health points will be deducted. The green area will shrink with the level, and if all 6 health points are deducted, the game will fail.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "arena001-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tian",
+          "wanFa": "节奏天国",
+          "wanFaSub": "Rhythm Tengoku",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/矩阵-节奏天国.png",
+          "videoList": [],
+          "desc": "！！可触摸墙面任意按钮跳过教学 \\n 各玩家面对砖块墙面并站在与自己颜色对应的后方 当墙面亮起白色时做好准备 游戏分为两种模式循环游玩 当听见极速模式语音提示时 需快速根据墙面亮起的箭头方向迅速踩踏面前对应的方向砖块 当听见记忆模式语音提示时 需记住墙面箭头显示的方向顺序 在白色熄灭后按顺序依次踩踏面前对应的方向砖块 \\n !! Can touch any button on the wall to skip teaching.  \\n  Each player faces a brick wall and stands behind the corresponding color. When the wall lights up in white, be prepared. The game is divided into two modes. Loop play. When hearing the high-speed mode voice prompt, quickly step on the bricks in front of them according to the direction of the arrow lit up on the wall. When hearing the memory mode voice prompt, remember the direction displayed by the wall arrow. Step on the bricks in front of them in order after the white light goes out",
+          "tags": "反应 记忆 速度",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "",
+              "tips": "跟跳简单版",
+              "gameIds": [
+                {
+                  "gameId": "tian-lyc",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "desTag": "",
+              "tips": "跟跳困难版",
+              "gameIds": [
+                {
+                  "gameId": "tian-lyc",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "desTag": "",
+              "unlockPT": "15",
+              "tips": "混合模式",
+              "gameIds": [
+                {
+                  "gameId": "tian-lyc",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "haiPai",
+          "wanFa": "拍照打卡",
+          "wanFaSub": "(员工可见)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room0002_hai.png",
+          "testFlight": "clerk",
+          "videoList": [],
+          "desc": "生日快乐&万圣节&表白注意长按下墙面黄色按钮十秒则游戏结束按下粉色按钮则停止音乐",
+          "tags": "拍照",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "表白",
+              "gameIds": [
+                {
+                  "gameId": "hailove-lyc",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "万圣节",
+              "gameIds": [
+                {
+                  "gameId": "haiwansheng-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 3,
+              "zuoZhe": "",
+              "tips": "生日快乐",
+              "gameIds": [
+                {
+                  "gameId": "haisrkl-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 4,
+              "zuoZhe": "",
+              "tips": "万圣节(定制)",
+              "gameIds": [
+                {
+                  "gameId": "haiwanshengdingzhi-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 5,
+              "zuoZhe": "",
+              "tips": "新年",
+              "gameIds": [
+                {
+                  "gameId": "hainewyear-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 6,
+              "zuoZhe": "",
+              "tips": "新爱心-定制PSH",
+              "gameIds": [
+                {
+                  "gameId": "aixin002-PSh-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 7,
+              "zuoZhe": "",
+              "tips": "新爱心",
+              "gameIds": [
+                {
+                  "gameId": "aixin002-lyc",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 8,
+              "zuoZhe": "",
+              "tips": "生日快乐FAiry",
+              "gameIds": [
+                {
+                  "gameId": "haisrkl002-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 9,
+              "zuoZhe": "",
+              "tips": "团建定制-2024FS",
+              "gameIds": [
+                {
+                  "gameId": "hai-tuanjiandingzhi",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 10,
+              "zuoZhe": "",
+              "tips": "团建定制-SJTU",
+              "gameIds": [
+                {
+                  "gameId": "hai-tuanjiandingzhi",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 12,
+              "zuoZhe": "",
+              "tips": "动画1",
+              "gameIds": [
+                {
+                  "gameId": "haiTestColor-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 13,
+              "zuoZhe": "",
+              "tips": "动画2",
+              "gameIds": [
+                {
+                  "gameId": "haiTestColor-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 14,
+              "zuoZhe": "",
+              "tips": "动画3",
+              "gameIds": [
+                {
+                  "gameId": "haiTestColor-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 15,
+              "zuoZhe": "",
+              "tips": "互动动画-心",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongAixin-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 16,
+              "zuoZhe": "",
+              "tips": "互动动画-沙滩",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongShatan-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 17,
+              "zuoZhe": "",
+              "tips": "互动动画-植物",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongZhiwu-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 18,
+              "zuoZhe": "",
+              "tips": "互动动画-蛋仔",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongDanzai-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 19,
+              "zuoZhe": "",
+              "tips": "互动动画-音乐",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongYinyue-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 20,
+              "zuoZhe": "",
+              "tips": "互动动画-烟花",
+              "gameIds": [
+                {
+                  "gameId": "haidingzhi-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 21,
+              "zuoZhe": "",
+              "tips": "互动动画-星座",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongXingzuo-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 22,
+              "zuoZhe": "",
+              "tips": "互动动画-箭头",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongJaintou-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 23,
+              "zuoZhe": "",
+              "tips": "动态彩虹",
+              "gameIds": [
+                {
+                  "gameId": "haiColor66666-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 24,
+              "zuoZhe": "",
+              "tips": "八方来财",
+              "gameIds": [
+                {
+                  "gameId": "hai-hudongFacai-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 25,
+              "zuoZhe": "",
+              "tips": "万圣节part2",
+              "gameIds": [
+                {
+                  "gameId": "haiwanshengPart2-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 26,
+              "zuoZhe": "",
+              "tips": "生日定制JA",
+              "gameIds": [
+                {
+                  "gameId": "haisrkl-JA-cxx",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 888,
+              "zuoZhe": "",
+              "tips": "画图",
+              "desTag": "创作",
+              "desClr": "#ffff00",
+              "gameIds": [
+                {
+                  "gameId": "haidingzhi-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            },
+            {
+              "lv": 999,
+              "zuoZhe": "",
+              "unlockPT": "30",
+              "tips": "开发",
+              "gameIds": [
+                {
+                  "gameId": "haidingzhi-hf",
+                  "trans": "leftRightCover"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "challengeMode": {
+      "state": "unlock",
+      "minMbs": 2,
+      "maxMbs": 6,
+      "sort": 88,
+      "list": [
+        {
+          "wanFaID": "haiPlus",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "(Pro Max M)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "videoList": [],
+          "desc": "消灭所有蓝色目标 躲避红色区域 共计240秒 生命值扣光重启本轮游戏 \\n Eliminate all blue targets and dodge the red area for a total of 240 seconds, deducting health points and restarting this round of the game",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "haiPlus002-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus004-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus007-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus0011-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus0010-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus008-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus001-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus006-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus009-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlus010-cxx",
+                  "trans": "none"
+                }
+              ]
+            },
+            {
+              "lv": 2,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "hai009PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai014PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai012PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai019PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai013PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0330PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0260PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0370PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0060PlusTwo-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0750PlusTwo-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "haiPlusChild",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "(Pro Max儿童版)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "videoList": [],
+          "desc": "消灭所有蓝色目标 躲避红色区域 共计240秒 生命值扣光重启本轮游戏 \\n Eliminate all blue targets and dodge the red area for a total of 240 seconds, deducting health points and restarting this round of the game",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "haiPlusChild002-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild004-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild007-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild0011-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild0010-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild008-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild001-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild006-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild009-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiPlusChild010-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "haiSix",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "(60秒挑战)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "testFlight": "storeManager",
+          "videoList": [],
+          "desc": "本挑战共六条生命值，扣除完则游戏结束。每轮有60秒闯关时间，通过一轮时间重置为60秒，若时间归零前未通过本轮则游戏失败\\nThis challenge has a total of six health points. After deduction, the game ends. After one round, the time increases by 30 seconds",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "haigundong-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haishu-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiheng-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haikaihe-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haishizi-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haixuanzhuan-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haibolang-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haiduoge-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haibaidong-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haibianhuan-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tranProMax",
+          "wanFa": "传递位置",
+          "wanFaSub": "(Pro Max测试)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/传递位置.png",
+          "testFlight": "storeManager",
+          "videoList": [],
+          "desc": "在游戏开始前每位玩家各自选择绿色区域站立，站在绿色闪烁区域的玩家按下对应墙面闪烁蓝色按钮，按下后，移动到新出现的绿色区域上，同时躲避红色危险区域。这样依次进行游戏。\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "transProMax-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax03-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax02-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax04-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax05-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax06-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax07-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax08-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax09-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMax10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "dafeiji",
+          "wanFa": "雷霆战机",
+          "wanFaSub": "(测试版)",
+          "testFlight": "clerk",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/打蜜蜂.png",
+          "desc": "请各玩家踩踏地面蓝色方块发射子弹攻击飞机，并同时躲避飞机发射的红色子弹与光束，子弹碰撞可以抵消并且每个砖块发射子弹存在冷却时间。注意：该游戏只有在规定时间内将敌方飞机消灭后开启下一轮，6条生命值扣完或规定时间内没有消灭敌方飞机即为游戏失败。\\nPlease step on the blue square on the ground and fire bullets to attack the aircraft, while avoiding the red bullets and beams fired by the aircraft. After eliminating the enemy aircraft within the specified time, the next round begins. If all 6 health points are deducted or the enemy aircraft is not eliminated within the specified time, the game fails.",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "desTag": "教学",
+              "tips": "新手教学",
+              "gameIds": [
+                {
+                  "gameId": "dafeiji008-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji007-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji001-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji002-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji003-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji004-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji005-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "dafeiji006-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tranProMaxThree",
+          "wanFa": "颜色传递",
+          "wanFaSub": "(C版测试)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/矩阵-颜色传递.png",
+          "testFlight": "storeManager",
+          "videoList": [],
+          "desc": "请各玩家观察墙面按钮颜色并选择一个站立到对应的绿色区域上，游戏开始时按钮闪烁的玩家按下按钮，各玩家观察新出现的按钮颜色，如果自身颜色与新出现的按钮颜色相同，玩家需要在墙面倒计时动画结束前站立到新出现的绿色区域上并按下墙面对应按钮\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "transProMaxThree-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree03-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree02-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree04-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree05-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree06-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree07-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree08-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree09-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transProMaxThree10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "haipro",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "(挑战版)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "videoList": [],
+          "desc": "消灭所有蓝色目标 躲避红色区域 初始六十秒过一轮加30秒 \\n Eliminate all blue targets and evade the red area for an initial 60 seconds. After one round, add 30 seconds",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "haizhibo001-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haizhibo002-hf",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai006-xkj",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai017-ljc",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai011-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0280-hdq",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0220-hdq",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai014-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0330-hdq",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haizhibo003-hf",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "tranPlus",
+          "wanFa": "传递位置",
+          "wanFaSub": "(挑战极限)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/传递位置.png",
+          "videoList": [],
+          "desc": "在游戏开始前每位玩家各自选择绿色区域站立，站在绿色闪烁区域的玩家按下对应墙面闪烁蓝色按钮，按下后，移动到新出现的绿色区域上，同时躲避红色危险区域。这样依次进行游戏。\\nBefore the game starts, each player chooses to stand in the green area. Players standing in the green flashing area press the corresponding flashing blue button on the wall, press it, and move to the new green area while avoiding the red danger area. Play the game in sequence like this.",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "transPlus-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus03-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus02-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus04-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus05-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus06-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus07-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus08-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus09-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "transPlus10-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "haiWar",
+          "wanFa": "矩阵冲刺",
+          "wanFaSub": "(挑战极限)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_hai.png",
+          "videoList": [],
+          "desc": "本挑战共六条生命值，扣除完则游戏结束，通过一轮时间则增加30秒\\nThis challenge has a total of six health points. After deduction, the game ends. After one round, the time increases by 30 seconds",
+          "tags": "反应 速度 耐力",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "haizhibo001-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haizhibo002-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai006-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai017-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai011-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0280-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0220-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai014-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0330-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "haizhibo003-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai007-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai013-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai01300-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0230-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0370-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0380-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0500-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0750-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0690-war",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "hai0340-war",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wanFaID": "duobiPlus",
+          "wanFa": "极限躲避",
+          "wanFaSub": "(挑战版)",
+          "apng": "http://pro.cyberplayer.cn/apps/roomRes/Normal/apng/Room002_duobi.png",
+          "videoList": [],
+          "desc": "在规定的时间内，躲避红色障碍，存活下来，即为获胜。触碰到红色障碍会扣除生命值，6条生命值扣完即游戏失败。\\nTo avoid the red obstacle within the specified time and survive is to win. Touching the red obstacle will deduct health points, and the game will fail if all 6 health points are deducted",
+          "tags": "反应 速度 技巧",
+          "level": [
+            {
+              "lv": 1,
+              "zuoZhe": "",
+              "tips": "该关卡推荐2-5人游玩",
+              "gameIds": [
+                {
+                  "gameId": "duobiPlus001-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus002-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus003-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus004-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus005-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus006-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus007-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus008-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus009-cxx",
+                  "trans": "none"
+                },
+                {
+                  "gameId": "duobiPlus010-cxx",
+                  "trans": "none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "endlessMode": {
+      "state": "lock",
+      "minMbs": 2,
+      "maxMbs": 6,
+      "sort": 80,
+      "list": []
+    }
+  }
+}

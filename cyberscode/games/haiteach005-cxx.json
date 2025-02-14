@@ -1,0 +1,426 @@
+{
+  "games": {
+    "haiteach005-cxx": {
+      "name": "示例",
+      "timeLen": 50,
+      "nodes": [
+        {
+          "New item - 1": {
+            "nodeId": "blue200",
+            "surface": "b",
+            "pt": {
+              "x": "0",
+              "y": "0"
+            },
+            "rotation": 0,
+            "visible": true,
+            "canTap": true,
+            "size": {
+              "w": "0",
+              "h": "0"
+            },
+            "anchorPt": {
+              "x": 0,
+              "y": "0"
+            },
+            "shape": {
+              "type": "rect",
+              "rect": {
+                "lt": {
+                  "x": 0,
+                  "y": 0
+                },
+                "rb": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "rgba": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 0
+              }
+            }
+          },
+          "nodeId": "life",
+          "surface": "life",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 5,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "red999",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "red998",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "red997",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "red996",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "red995",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "red994",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        },
+        {
+          "nodeId": "green302",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": false,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 15,
+                "y": 2
+              }
+            },
+            "rgba": {
+              "r": 0,
+              "g": 254,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "opPlans": [
+        {
+          "beginTM": 0,
+          "opInfo": {
+            "opId": "greenPlay302",
+            "opType": "play",
+            "opNode": "green302",
+            "timeLen": 5,
+            "loop": "false",
+            "keyFrames": [
+              {
+                "t": "0.2",
+                "keyFrame": {
+                  "shape": {
+                    "rgba": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              },
+              {
+                "t": "0.4",
+                "keyFrame": {
+                  "shape": {
+                    "rgba": {
+                      "r": 0,
+                      "g": 254,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              },
+              {
+                "t": "0.6",
+                "keyFrame": {
+                  "shape": {
+                    "rgba": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              },
+              {
+                "t": "1",
+                "keyFrame": {
+                  "shape": {
+                    "rgba": {
+                      "r": 0,
+                      "g": 254,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "logics": []
+    }
+  }
+}

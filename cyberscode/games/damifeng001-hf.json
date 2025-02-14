@@ -1,0 +1,1773 @@
+{
+  "games": {
+    "damifeng001-hf": {
+      "name": "示例",
+      "timeLen": 90,
+      "nodes": [
+        {
+          "nodeId": "green001",
+          "surface": "a",
+          "pt": {
+            "x": "-1",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 254,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "fire001",
+          "surface": "b",
+          "pt": {
+            "x": "2",
+            "y": "3"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 254,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "fire002",
+          "surface": "b",
+          "pt": {
+            "x": "5",
+            "y": "3"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 254,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "fire003",
+          "surface": "b",
+          "pt": {
+            "x": "8",
+            "y": "3"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 254,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "fire004",
+          "surface": "b",
+          "pt": {
+            "x": "11",
+            "y": "3"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 254,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "fire005",
+          "surface": "b",
+          "pt": {
+            "x": "14",
+            "y": "3"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 254,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA001",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA002",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA003",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA004",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA005",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanA006",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB001",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB002",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB003",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB004",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB005",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "zidanB006",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "-1"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "nodeId": "feiji",
+          "surface": "b",
+          "pt": {
+            "x": "0",
+            "y": "35"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          },
+          "nodes": [
+            {
+              "nodeId": "feiji001",
+              "surface": "b",
+              "pt": {
+                "x": "0",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              },
+              "nodes": [
+                {
+                  "nodeId": "feijiA001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 1
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiA002",
+                  "surface": "b",
+                  "pt": {
+                    "x": "2",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 3
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiA003",
+                  "surface": "b",
+                  "pt": {
+                    "x": "4",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 3
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiA004",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 2
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiA005",
+                  "surface": "b",
+                  "pt": {
+                    "x": "6",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 2
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiA006",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "3"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 6,
+                        "y": 0
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "zidanleisheA001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "-36"
+                  },
+                  "rotation": 0,
+                  "visible": false,
+                  "canTap": false,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 35
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "leishefugai001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "-36"
+                  },
+                  "rotation": 0,
+                  "visible": false,
+                  "canTap": false,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 34
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "nodeId": "feiji002",
+              "surface": "b",
+              "pt": {
+                "x": "7",
+                "y": "0"
+              },
+              "rotation": 0,
+              "visible": true,
+              "canTap": true,
+              "size": {
+                "w": "0",
+                "h": "0"
+              },
+              "anchorPt": {
+                "x": 0,
+                "y": "0"
+              },
+              "shape": {
+                "type": "rect",
+                "rect": {
+                  "lt": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "rb": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "ringWidth": "0",
+                "ringRgba": {
+                  "r": 254,
+                  "g": 254,
+                  "b": 0,
+                  "a": 0.3
+                },
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              },
+              "nodes": [
+                {
+                  "nodeId": "leisheB001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": -36
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "0"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 1
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB002",
+                  "surface": "b",
+                  "pt": {
+                    "x": "2",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 3
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB003",
+                  "surface": "b",
+                  "pt": {
+                    "x": "4",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 3
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB004",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 2
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB005",
+                  "surface": "b",
+                  "pt": {
+                    "x": "6",
+                    "y": "2"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 2
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "feijiB006",
+                  "surface": "b",
+                  "pt": {
+                    "x": "0",
+                    "y": "3"
+                  },
+                  "rotation": 0,
+                  "visible": true,
+                  "canTap": true,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 6,
+                        "y": 0
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 254,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "zidanleisheB001",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "-36"
+                  },
+                  "rotation": 0,
+                  "visible": false,
+                  "canTap": false,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 35
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 254,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                },
+                {
+                  "nodeId": "leishefugai002",
+                  "surface": "b",
+                  "pt": {
+                    "x": "3",
+                    "y": "-36"
+                  },
+                  "rotation": 0,
+                  "visible": false,
+                  "canTap": false,
+                  "size": {
+                    "w": "0",
+                    "h": "0"
+                  },
+                  "anchorPt": {
+                    "x": 0,
+                    "y": "0"
+                  },
+                  "shape": {
+                    "type": "rect",
+                    "rect": {
+                      "lt": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "rb": {
+                        "x": 0,
+                        "y": 34
+                      }
+                    },
+                    "ringWidth": "0",
+                    "ringRgba": {
+                      "r": 254,
+                      "g": 254,
+                      "b": 0,
+                      "a": 0.3
+                    },
+                    "rgba": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "life",
+          "surface": "life",
+          "pt": {
+            "x": "0",
+            "y": "0"
+          },
+          "rotation": 0,
+          "visible": true,
+          "canTap": true,
+          "size": {
+            "w": "0",
+            "h": "0"
+          },
+          "anchorPt": {
+            "x": 0,
+            "y": "0"
+          },
+          "shape": {
+            "type": "rect",
+            "rect": {
+              "lt": {
+                "x": 0,
+                "y": 0
+              },
+              "rb": {
+                "x": 5,
+                "y": 0
+              }
+            },
+            "ringWidth": "0",
+            "ringRgba": {
+              "r": 254,
+              "g": 254,
+              "b": 0,
+              "a": 0.3
+            },
+            "rgba": {
+              "r": 254,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "opPlans": [],
+      "logics": []
+    }
+  }
+}

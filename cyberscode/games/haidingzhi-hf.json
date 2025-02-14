@@ -1,0 +1,11 @@
+{
+  "games": {
+    "haidingzhi-hf": {
+      "name": "示例",
+      "timeLen": 99999,
+      "nodes": [],
+      "opPlans": [],
+      "logics": []
+    }
+  }
+}

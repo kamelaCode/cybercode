@@ -1,0 +1,11 @@
+{
+  "games": {
+    "hainewyear-hf": {
+      "name": "示例",
+      "timeLen": 999,
+      "nodes": [],
+      "opPlans": [],
+      "logics": []
+    }
+  }
+}
